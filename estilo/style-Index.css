@@ -1,0 +1,25 @@
+h2{
+  margin-top: 20px;
+  margin-bottom:25px;
+
+  border-bottom: solid 1px rgb(51 85 50);
+  font-size: 40px;
+}
+
+.item{
+  margin-right: 10px;
+}
+
+.container p{
+  padding-right: 30px;
+  margin-bottom: 15px;
+}
+
+.item img{
+  width: 500px;
+  
+  border-radius: 3%;
+  /*border: solid 1px rgb(51 85 50);*/
+}
+
+
