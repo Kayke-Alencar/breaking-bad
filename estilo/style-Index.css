@@ -18,8 +18,10 @@ h2{
 .item img{
   width: 500px;
   
+  opacity: 55%;
   border-radius: 3%;
   /*border: solid 1px rgb(51 85 50);*/
 }
+
 
 
