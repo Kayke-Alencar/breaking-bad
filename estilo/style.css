@@ -4,14 +4,18 @@
   }
   
   body{
-    background-color: rgb(18 17 13);
+    /*background-color: rgb(18 17 13);*/
+    background-image: linear-gradient(45deg, black, rgb(11, 15, 12));
   }
 
-  .tituloss{
-  
+  main{
+    padding-bottom: 180px;
+ 
+  }
+
+  .titulos{
     font-family: 'Heart Breaking Bad', sans-serif;
     color: rgb(185 180 180);
-  
   }
 
   h1{
@@ -19,7 +23,6 @@
   
     text-align: center;
     padding-top:20px;
-    margin-bottom: 70px;
   }
   
   h1 b{
@@ -35,6 +38,7 @@
   .container{
     display: flex;
     margin: auto;
+    margin-top: 70px;
     width: 80%;
   }
 
@@ -45,16 +49,17 @@
   }
 
   nav{
-    margin-top: 160px;
-    padding-top: 100px;
+    padding-top: 80px;
+    height: 100px;
 
     text-align: center;
 
     border-top: solid 2px rgb(51 85 50);
+    border-bottom:solid 2px rgb(51 85 50);
   }
 
   a{
-    padding-bottom: 100px;
+    /*padding-bottom: 100px;*/  
     margin-right: 100px;
 
     text-decoration:blink;
@@ -63,6 +68,5 @@
   }
 
   a:hover{
-    color: rgb(171 203 96);
+    color: rgb(178 255 0);
   }
-
