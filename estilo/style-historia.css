@@ -2,16 +2,24 @@
     box-shadow: -16px 18px 10px black;
 }
 
+p{
+    margin-top: 20px;
+}
+
 .titulos{
+    border-bottom: solid 2px rgb(5 78 0);
     font-size: 50px;
 }
 
 #tamanho{
     font-size: 75px;
+    border-bottom: none;
 }
 
 header{
     background-image: url("https://images.alphacoders.com/675/675480.jpg");
+    border-bottom: solid 2px rgb(4 40 4);
+    
     height: 100vh;
  
 }
@@ -22,8 +30,8 @@ header{
 }
 
 h1 b{
-    color: rgb(45 96 44);
-    border: solid 3px rgb(45 96 44)
+    color: rgb(8 58 7);
+    border: solid 3px rgb(8 58 7);
 }
 
 .escurecer{
@@ -97,4 +105,3 @@ iframe{
 .texto-p3{
     margin-top: 40px;
 }
-
